@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Welcome from './component/Welcome';
 import Hello from './component/Hello';
-import Greet from './component/Greet';
+// import Greet from './component/Greet';
 import Message from './component/Message';
 
 function App() {
