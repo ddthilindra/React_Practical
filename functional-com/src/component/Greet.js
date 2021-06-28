@@ -1,6 +1,6 @@
 // import React from 'react'
 
-// function Greet = props => {
+// function Greet = (props) => {
 //     console.log(props)
 //     return (
 //         <div>
