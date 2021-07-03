@@ -5,11 +5,19 @@ import Hello from './component/Hello';
 // import Greet from './component/Greet';
 //import Message from './component/Message';
 import Counter from './component/Counter';
+import FunctionClick from './component/FunctionClick';
+import ClassClick from './component/ClassClick';
+import EventBind from './component/EventBind';
+import parentComponent from './component/parentComponent';
+import UserGreeting from './component/UserGreeting';
 
 function App() {
   return (
     <div className="App">
-      <Counter/>
+      <UserGreeting />
+      {/* <parentComponent  /> */}
+      {/* <EventBind /> */}
+      {/* <Counter/> */}
       {/* <Message /> */}
       {/* <Greet name="Bruce" heroName="Batman" >
         <p>This is children props</p>
